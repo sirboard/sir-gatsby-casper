@@ -1,4 +1,15 @@
-#### Well its an IDE... A better one?
+---
+layout: post
+title: 'Platform IO'
+author: [Sircuit]
+tags: ['Getting Started']
+image: img/platformio.png
+date: '2018-05-06T23:46:37.121Z'
+draft: false
+excerpt: Want to know about the latest way to write embedded code? We got just the IDE for you!
+---
+
+### Well its an IDE... A better one?
 
 The traditional Arduino IDE is complicated. Behind that snazzy text editor we all know and love, there is a lot going on. To make matters worse, not much of this is exposed in a friendly fashion. Although the project is open source, its not simple to follow and customize.
 
